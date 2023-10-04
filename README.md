@@ -9,7 +9,7 @@ Submissions are evaluated on MAPE (Mean Absolute Percentage Error) between p
 #### Contents of the submission notebook (image attached)
 ![image](https://github.com/ArvindRoshaan/hackathon-time-series-regression/assets/91244663/03e1bef9-25f6-41db-a8e3-1dacd473b993)
 
-#### Submission
+#### Prediction
 ![image](https://github.com/ArvindRoshaan/hackathon-time-series-regression/assets/91244663/7770bd05-202a-4e1d-a2e4-7f0e18931029)
 
 #### Submission Format
